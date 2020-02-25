@@ -1,6 +1,6 @@
 # bootcamp_launchBase_Desafios-1-4
 
-Intro
+##Intro
 
 Crie um programa para realizar operações bancárias na conta de um usuário.
 
@@ -29,7 +29,7 @@ Se for uma transação do tipo debit ela deve subtrair o valor do débito no sal
 Dica.: Você pode usar o método user.transactions.push(transaction) para 
 adicionar um novo item no array de transações.
 
-Relatórios
+##Relatórios
 
 Crie uma função chamada getHigherTransactionByType que recebe como parâmetro o tipo
  de transação credit/debit, percorre as transações do usuário e retorna o objeto da transação de maior valor com aquele tipo:
